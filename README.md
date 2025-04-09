@@ -42,7 +42,7 @@ The **first figure** illustrates the number of firmware images collected per ven
 - Open-source firmware distributions such as **OpenWrt (14)**, **DD-WRT (12)**, and **FreshTomato (10)** are also significantly represented.
 - Commercial vendors like **Netgear (15)**, **TP-Link (10)**, **Huawei (11)**, and **Ubiquiti (12)** show strong update activity, reflecting widespread deployment in consumer and enterprise settings.
 
-![firmware_vendor_counts](.\assets\firmware_vendor_counts-1744203408367-5.svg)
+![firmware_vendor_counts](./assets/firmware_vendor_counts-1744203408367-5.svg)
 
 ### ⚙️ Firmware Customization Support
 
@@ -51,7 +51,7 @@ The **second figure** visualizes the proportion of firmware images that are cust
 - **57 firmware images (≈26%)** originate from open-source platforms such as **OpenWrt**, **LEDE**, **Tomato**, **Gargoyle**, **FreshTomato**, **DD-WRT**, and **pfSense** — all of which support extensive user customization.
 - The remaining **164 firmware images (≈74%)** are sourced from proprietary vendors including **Cisco**, **Huawei**, **Netgear**, **TP-Link**, and others, which typically do not support firmware customization due to closed-source policies and rigid update mechanisms.
 
-![firmware_customization_by_vendor_clean](.\assets\firmware_customization_by_vendor_clean-1744203415545-7.svg)
+![firmware_customization_by_vendor_clean](./assets/firmware_customization_by_vendor_clean-1744203415545-7.svg)
 
 
 
